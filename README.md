@@ -11,4 +11,4 @@ Explicação sobre o código.
   
 3 - Com um laço fazemos a pesquisa das palavras e caso exista ou não, será exibida pela condição if/else.  
 
-# Sou novato em Python, criticas e ajuda serão sempre bem-vindas.
+Sou novato em Python, criticas e ajuda serão sempre bem-vindas.
