@@ -18,6 +18,7 @@ def check_file(text_check):
             print(name)
         else:
             print('Bad words not found.')
+            break
 
 
 read_file()
